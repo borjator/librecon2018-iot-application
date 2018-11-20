@@ -1,8 +1,15 @@
 {
     "name": "librecon2018-iot-application",
-    "description": "A Node-RED Project",
+    "description": "The IoT application of the talk in the Librecon2018 ",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-graphite": "1.0.0",
+        "node-red-contrib-telegrambot": "4.4.0",
+        "node-red-contrib-xiaomi-ble": "1.2.3",
+        "node-red-dashboard": "2.11.0",
+        "node-red-node-rbe": "0.2.4",
+        "red-contrib-webmail-notifier": "0.0.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
