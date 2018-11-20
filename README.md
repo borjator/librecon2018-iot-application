@@ -1,7 +1,2 @@
-librecon2018-iot-application
-============================
-
-### About
-
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+# librecon2018-iot-application
+The IoT application of the talk in the Librecon2018 
